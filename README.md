@@ -1,2 +1,3 @@
 # Flask-web-app-with-login-sign-up-pages
-In this repo we made a project for login and signup pages with python and we are using sqllite3 and moreover we can see our db with gui  in broswer.
+A simple web application demonstrating user authentication (login/signup) with Python and Flask. Uses SQLite3 for database storage and includes HTML templates for the user interface. Provides a basic foundation for building more complex web applications with user management.
+
